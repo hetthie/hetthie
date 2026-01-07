@@ -20,7 +20,7 @@
 ## 📫 Contact
 
 📧 Hetthieherrera@gmail.com
-💼 [Andie Herrera](www.linkedin.com/in/andie-herrera-1bb58334a)
+💼 [Andie Herrera](https://linkedin.com/in/andie-herrera-1bb58334a)
 
 <!--
 **hetthie/hetthie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
